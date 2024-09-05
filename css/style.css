@@ -3,11 +3,8 @@
     margin: 0;
     box-sizing: border-box;
     border: 0;
-
-    background-color: rgb(219, 219, 218);
     font-family: Arial, Helvetica, sans-serif;
 }
-
 
 header{
     height: 200px;
@@ -15,7 +12,7 @@ header{
 }
 
 .edu{
-    background-color: white;
+    background-color: rgb(212, 212, 212);
     height: 380px;
     width: 310px;
     margin-left: 50px;
@@ -24,7 +21,7 @@ header{
 }
 
 .edu,h2,h3{
-    background-color: white;
+    background-color: rgb(212, 212, 212);
 
 }
 
@@ -32,7 +29,6 @@ h2{
     background-color: tomato;
     margin-top: 15px;
     height: 100px;
-    border-radius: 5px;
 }
 
 section{
@@ -43,5 +39,11 @@ section{
 
 
 footer{
+    background-color: rgb(212, 212, 212);
+    
+}
+
+header>a{
     background-color: white;
+    
 }
