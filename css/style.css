@@ -16,8 +16,8 @@ header{
 
 .edu{
     background-color: white;
-    height: 350px;
-    width: 300px;
+    height: 380px;
+    width: 310px;
     margin-left: 50px;
     margin-top: 50px;
 
@@ -28,9 +28,17 @@ header{
 
 }
 
+h2{
+    background-color: tomato;
+    margin-top: 15px;
+    height: 100px;
+    border-radius: 5px;
+}
+
 section{
     float: left;
     border-radius: 10px;
+    padding: 5px;
 }  
 
 
